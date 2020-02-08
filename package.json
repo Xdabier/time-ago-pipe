@@ -1,6 +1,6 @@
 {
   "name": "time-ago-pipe",
-  "version": "1.4.1",
+  "version": "1.4.12",
   "description": "A really simple, lightweight Angular pipe for converting a date string into a time ago",
   "scripts": {
     "build": "ng-packagr -p package.json",
@@ -46,7 +46,7 @@
   },
   "ngPackage": {
     "lib": {
-      "entryFile": "time-ago-pipe.module.ts"
+      "entryFile": "index.ts"
     }
   }
 }
