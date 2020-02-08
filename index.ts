@@ -1,1 +1,1 @@
-export * from './time-ago-pipe.module';
+export {TimeAgoPipeModule} from './time-ago-pipe.module';

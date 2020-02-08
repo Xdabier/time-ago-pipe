@@ -1,0 +1,6 @@
+/**
+ * Generated bundle index. Do not edit.
+ */
+export * from './index';
+export { TimeAgoPipe as ɵa } from './time-ago.pipe';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGltZS1hZ28tcGlwZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3RpbWUtYWdvLXBpcGUvIiwic291cmNlcyI6WyJ0aW1lLWFnby1waXBlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxTQUFTLENBQUM7QUFFeEIsT0FBTyxFQUFDLFdBQVcsSUFBSSxFQUFFLEVBQUMsTUFBTSxpQkFBaUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9pbmRleCc7XG5cbmV4cG9ydCB7VGltZUFnb1BpcGUgYXMgybVhfSBmcm9tICcuL3RpbWUtYWdvLnBpcGUnOyJdfQ==
