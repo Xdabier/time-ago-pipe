@@ -46,7 +46,7 @@
   },
   "ngPackage": {
     "lib": {
-      "entryFile": "index.ts"
+      "entryFile": "time-ago-pipe.module.ts"
     }
   }
 }
