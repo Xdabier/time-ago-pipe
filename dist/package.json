@@ -1,0 +1,40 @@
+{
+  "name": "time-ago-pipe",
+  "version": "1.4.12",
+  "description": "A really simple, lightweight Angular pipe for converting a date string into a time ago",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xdabier/time-ago-pipe.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Angular8+",
+    "timeago",
+    "pipe"
+  ],
+  "author": "Andrew <andrewpoyntz@hotmail.com> (http://www.andrewpoyntz.co.uk)",
+  "contributors": [
+    "Xdabier <bbadii@protonmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xdabier/time-ago-pipe/issues"
+  },
+  "homepage": "https://github.com/Xdabier/time-ago-pipe#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "bundles/time-ago-pipe.umd.js",
+  "module": "fesm5/time-ago-pipe.js",
+  "es2015": "fesm2015/time-ago-pipe.js",
+  "esm5": "esm5/time-ago-pipe.js",
+  "esm2015": "esm2015/time-ago-pipe.js",
+  "fesm5": "fesm5/time-ago-pipe.js",
+  "fesm2015": "fesm2015/time-ago-pipe.js",
+  "typings": "time-ago-pipe.d.ts",
+  "metadata": "time-ago-pipe.metadata.json",
+  "sideEffects": false,
+  "peerDependencies": {
+    "tslib": "^1.10.0"
+  }
+}

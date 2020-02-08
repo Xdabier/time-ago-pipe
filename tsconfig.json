@@ -11,10 +11,11 @@
     "noImplicitAny": false,
     "lib": ["es2017", "dom"]
   },
-  "include": [
-    "**/*.spec.ts",
-    "**/*.ts",
-    "**/*.d.ts"
+  "files": [
+    "index.ts",
+    "translate.ts",
+    "time-ago.pipe.ts",
+    "time-ago-pipe.module",
   ],
   "types":[
     "core-js",
