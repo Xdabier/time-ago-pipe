@@ -45,6 +45,8 @@ where "your_date" is a local date string, which could be parsed by the standard 
 
 ## i18n
 
+This feature is based on this [Pull request](https://github.com/AndrewPoyntz/time-ago-pipe/pull/14/).
+
 Only English and French are supported.
 To use french translations you can just do:
 ```
