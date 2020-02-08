@@ -11,6 +11,11 @@
     "noImplicitAny": false,
     "lib": ["es2017", "dom"]
   },
+  "include": [
+    "**/*.spec.ts",
+    "**/*.ts",
+    "**/*.d.ts"
+  ],
   "types":[
     "core-js",
     "node"
