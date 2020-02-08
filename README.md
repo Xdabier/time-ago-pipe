@@ -43,4 +43,12 @@ In your component templates you can just do:
 ```
 where "your_date" is a local date string, which could be parsed by the standard Js Date()
 
+## i18n
+
+Only English and French are supported.
+To use french translations you can just do:
+```
+<span>{{your_date | timeAgo:'fr'}}</span>
+```
+
 If this value is null or not parsable as a date, then the pipe will display nothing
