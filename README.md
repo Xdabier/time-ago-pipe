@@ -26,13 +26,12 @@ It can be imported into your angular project, as you would for any other library
 
 In the @NgModule you want to use it in
 ```
-import {TimeAgoPipe} from 'time-ago-pipe';
+import {TimeAgoPipeModule} from 'time-ago-pipe';
 ```
-add "TimeAgoPipe" to your declarations
+add "TimeAgoPipeModule" to your imports
 ```
 @NgModule({
-	imports: [... etc ...],
-	declarations: [..., TimeAgoPipe, ... ]
+	imports: [... TimeAgoPipeModule, ...],
 })
 ```
 ---
